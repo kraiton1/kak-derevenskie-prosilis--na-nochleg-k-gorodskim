@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "kak-derevenskie-prosilis'-na-nochleg-k-gorodskim",
+    "name": "Как деревенские просились на ночлег к городским",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
@@ -56,8 +56,8 @@
     "screenshot": "screenshot.png",
     "robotsSwitcher": true,
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "favicon": "@PROJECT_PATH@/assets/images/shot-28-09-2025-15-47-57-128x96.png",
-    "mbrsiteDomain": "jqyjvcjvxb",
+    "favicon": "@PROJECT_PATH@/assets/images/-128x96.png",
+    "mbrsiteDomain": "ykasofpmcq",
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
@@ -74,7 +74,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "kak-derevenskie-prosilis'-na-nochleg-k-gorodskim",
+        "title": "Как деревенские просились на ночлег к городским",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
